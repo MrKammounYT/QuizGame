@@ -23,6 +23,8 @@ By following these simple steps, you'll be able to quickly and easily install th
 * `/quiz stop`  This command is used to stop the quiz game if a player is currently in one. 
 | It can be entered at any time during the quiz game to end the current game and return players to the normal gameplay mode.
 
+* `/quiz points` this allows the player to see the total points he gained from answering quiz's
+| It can be entered at any time during the quiz game and will send a message to the player
 
 ## Permessions:
 * `quiz.use`
