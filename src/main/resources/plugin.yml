@@ -1,4 +1,7 @@
-name: QuizGameV2
-version: '${project.version}'
-main: tn.quizgamev2.QuizGameV2
+name: QuizGame
+version: 0.2
+main: tn.main.main
 api-version: 1.18
+commands:
+  Quiz:
+    description: "Quiz"

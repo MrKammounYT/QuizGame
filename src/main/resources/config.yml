@@ -1,0 +1,15 @@
+answer-time: 15
+point-reward: 1
+Prefix: "&7[&bQuiz&7] "
+MySQL:
+  host: "localhost"
+  port: 3306
+  DatabaseName: "test"
+  username: "root"
+  password: "123"
+Messages:
+  Question: "&e[Question] &bYou have &e[time] &bto answer!"
+  correct-answer: "&aThat's correct!"
+  wrong-answer: "&cThat's wrong!"
+  time-up:  "&bTime is up the answer was &e[answer]"
+  game-over: "&bThe Game over you answered &e[correct_answers]&7/&e[total_questions] "

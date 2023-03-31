@@ -1,0 +1,17 @@
+Category:
+  Math:
+    questions:
+      '1':
+        question: "2+2"
+        answer: "4"
+      '2':
+        question: "7*8"
+        answer: "56"
+  Science:
+    questions:
+      '1':
+        question: "How do birds navigate long distances during migration?"
+        answer: "stars"
+      '2':
+        question: "How do vaccines work?"
+        answer: "Production of antigen"
